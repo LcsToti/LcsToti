@@ -1,4 +1,4 @@
-![githubwp](https://github.com/user-attachments/assets/15226a4a-27af-45d7-840e-5a9b8544e7e3)
+![BG](https://github.com/user-attachments/assets/c4d95ae6-112b-465d-8d06-8db6a9fa9f59)
 
 # Olá você! 👋
 
