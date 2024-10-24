@@ -35,7 +35,7 @@
 
 ### PUC Minas
 
-- [x] PC Certo (Fórum) - [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-pc-certo) - [Site Estático](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t4-pc-certo/codigo-fonte/Forum.html)
+- [x] PC Certo (Fórum) - [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-pc-certo) - [Site Estático (Fórum)](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t4-pc-certo/codigo-fonte/Forum.html)
 - [ ] Prato do Dia (Privado/Em andamento...) - [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e2-proj-int-t4-pmv-ads-2024-2-e2-projpratododia) - [Site Hospedado](#)
 
 ### Pessoais
@@ -47,10 +47,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-toti-5114ab20a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lcstotidev/)
 
-📧 Meu email para contato: <strong> lucastotidev@gmail.com </strong>
+#### 📧 Meu email para contato: <strong> lucastotidev@gmail.com </strong>
 
 ## Estatísticas
 
-![LcsToti Github stats](https://github-readme-stats.vercel.app/api?username=lcstoti&show_icons=true&locale=pt-br&rank_icon=github)
-
+![LcsToti Github stats](https://github-readme-stats.vercel.app/api?username=lcstoti&show_icons=true&locale=pt-br&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LcsToti&locale=pt-br&layout=compact)
