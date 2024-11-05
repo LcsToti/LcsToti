@@ -1,55 +1,50 @@
 ![BG](https://github.com/user-attachments/assets/c4d95ae6-112b-465d-8d06-8db6a9fa9f59)
 
-# Olá você! 👋
+# Hi there! 👋
 
-🧑‍💻 Me chamo <strong>Lucas Toti</strong> e é um prazer te ter por aqui!<br/>
-📖 Estou cursando <strong>Análise de Desenvolvimento de Sistemas</strong> na [@PucMinas](https://github.com/ICEI-PUC-Minas-PMV-ADS).<br/>
-🔨 Essa página ainda está em desenvolvimento...
+🧑‍💻 I'm <strong>Lucas Toti</strong> and its a pleasure to see you here!<br/>
+🎓 I'm currently studying <strong>Systems Analysis and Development</strong> at [@PucMinas](https://github.com/ICEI-PUC-Minas-PMV-ADS).<br/>
+📖 I'm totally passionate about technology and always learning new things.
 
 <p align="center">
-    <a href="#-tecnologias">Tecnologias</a> | 
-    <a href="#-projetos">Projetos</a> | 
-    <a href="#-contato">Contato</a> | 
-    <a href="#estatísticas">Estatísticas</a>
+    <a href="#-technologies">Technologies</a> | 
+    <a href="#-projects">Projects</a> | 
+    <a href="#-contact">Contact</a> | 
+    <a href="#stats">GitHub Stats</a>
 </p>
 
-## 💻 Tecnologias
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+## 💻 Technologies
 
-
-| 💡 Possuo conhecimento | 🌱 Estou aprendendo | 📋 Tenho interesse |
+| 💡  Proficient in... | 🌱 Currently learning... | 📋 I want to learn... |
 | ---------------------- | ------------------- | ------------------ |
-| HTML                   | ASP.NET MVC         | Python             |
-| CSS                    | C#                  | C                  |
-| Javascript             | Razor               | Java               |
-| Git                    | Entity              | PHP                |
-| Bootstrap              | SQL Server          | React              |
-|                        | MySQL               | Node.js            |
-|                        | jQuery              | Express.js         |
-|                        |                     | TypeScript         |
+| ![HTML](https://img.shields.io/badge/HTML%205-E34F26?style=flat&logo=html5&logoColor=white) | ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat&logo=.net&logoColor=white) | ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white) |
+| ![CSS](https://img.shields.io/badge/CSS%203-1572B6?style=flat&logo=css3&logoColor=white)  | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) | ![C](https://img.shields.io/badge/-00599C?style=flat&logo=c&logoColor=white) |
+| ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
+| ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white) | ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) | | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) |
+| | | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) |
+| | | ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat) |
+| | | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
 
-## 📁 Projetos
+## 📁 Projects
 
-### PUC Minas
+### PUC Minas Projects
 
-- [x] PC Certo (Fórum) - [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-pc-certo) - [Site Estático (Fórum)](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t4-pc-certo/codigo-fonte/Forum.html)
-- [ ] Prato do Dia (Privado/Em andamento...) - [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e2-proj-int-t4-pmv-ads-2024-2-e2-projpratododia) - [Site Hospedado](#)
+- [x] PC Certo(Forum) - HTML, CSS and JavaScript  - [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-pc-certo) - [Access Here(Forum)](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t4-pc-certo/codigo-fonte/Forum.html)
+- [ ] Prato do Dia (WIP..) - [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e2-proj-int-t4-pmv-ads-2024-2-e2-projpratododia) - [~~Access Here~~](#)
 
-### Pessoais
+### Personal Projects
 
-- [x] Jogo da Velha - [GitHub](https://github.com/LcsToti/JogoDaVelha) - [Site estático](https://github.com/LcsToti/JogoDaVelha)
+- [x] Jogo da Velha(Tic Tac Toe) - [GitHub](https://github.com/LcsToti/JogoDaVelha) - [Access Here](https://github.com/LcsToti/JogoDaVelha)
 
-## 📫 Contato
+## 📫 Contact
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-toti-5114ab20a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-toti-5114ab20a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lcstotidev/)
 
-#### 📧 Meu email para contato: <strong> lucastotidev@gmail.com </strong>
+#### 📧 My email: <strong> lucastotidev@gmail.com </strong>
 
-## Estatísticas
+## Stats
 
-![LcsToti Github stats](https://github-readme-stats.vercel.app/api?username=lcstoti&show_icons=true&locale=pt-br&hide_rank=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LcsToti&locale=pt-br&layout=compact)
+![LcsToti Github stats](https://github-readme-stats.vercel.app/api?username=lcstoti&show_icons=true&hide_rank=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LcsToti&layout=compact)
