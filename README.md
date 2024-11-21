@@ -31,7 +31,7 @@
 ### PUC Minas Projects
 
 - [x] PC Certo/Forum Page - _HTML, CSS and JavaScript_  - [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-pc-certo) - [Access Here(Forum)](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t4-pc-certo/codigo-fonte/Forum.html)
-- [ ] (WIP...) Prato do Dia - _C#, ASP.NET Core, HTML, CSS and Javascript_ - [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e2-proj-int-t4-pmv-ads-2024-2-e2-projpratododia) - [~~Access Here~~](#)
+- [ ] (WIP...) Prato do Dia - C#, ASP.NET Core, HTML, CSS, Javascript and Bootstrap - [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e2-proj-int-t4-pmv-ads-2024-2-e2-projpratododia) - [Access Here](https://pratododia.azurewebsites.net/)
 
 ### Personal Projects
 
