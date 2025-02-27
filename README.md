@@ -8,8 +8,8 @@
 
 ### PUC Minas Projects
 
-- [x] PC Certo/Forum Page - _HTML, CSS and JavaScript_  - [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-pc-certo)
-- [x] Prato do Dia - C#, ASP.NET Core, HTML, CSS, Javascript and Bootstrap - [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e2-proj-int-t4-pmv-ads-2024-2-e2-projpratododia)
+- [x] PC Certo/Forum Page - HTML, CSS and JavaScript  - [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-pc-certo)
+- [x] Prato do Dia - ASP.NET Core, HTML, CSS, Javascript and Bootstrap - [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e2-proj-int-t4-pmv-ads-2024-2-e2-projpratododia)
 - [ ] Habitum - React Native [W.I.P]
 
 ## 📫 Contact
