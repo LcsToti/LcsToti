@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 🧑‍💻 I'm <strong>Lucas Toti</strong> and its a pleasure to see you here!<br/>
-🎓 I'm currently studying <strong>Systems Analysis and Development</strong> at [@PucMinas](https://github.com/ICEI-PUC-Minas-PMV-ADS).<br/>
+🎓 I'm currently studying <strong>Systems Analysis and Development</strong> at [Puc Minas](https://github.com/ICEI-PUC-Minas-PMV-ADS).<br/>
 📖 I'm totally passionate about technology and always learning new things.
 
 ## 📁 Projects
