@@ -6,8 +6,6 @@
 
 ## 📁 Projects
 
-### PUC Minas Projects
-
 - [x] PC Certo/Forum Page - HTML, CSS and JavaScript  - [GitHub](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-pc-certo)
 - [x] Prato do Dia - ASP.NET Core, HTML, CSS, Javascript and Bootstrap - [GitHub](https://github.com/LcsToti/PratoDoDia)
 - [ ] Habitum - React Native [W.I.P]
