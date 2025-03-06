@@ -5,8 +5,8 @@
 
 # 📁 Projects
 
-- [x] PC Certo/Forum Page - HTML, CSS and JavaScript  - [Repository](https://github.com/LcsToti/PC-Certo)
-- [x] Prato do Dia - ASP.NET Core, HTML, CSS, Javascript and Bootstrap - [GitHub](https://github.com/LcsToti/PratoDoDia)
+- [x] PC Certo/Forum Page - HTML, CSS and JavaScript  - [Repository](https://github.com/LcsToti/PC-Certo) - [Site](https://lcstoti.github.io/PC-Certo/src/Paginainicial.html)
+- [x] Prato do Dia - ASP.NET Core, HTML, CSS, Javascript and Bootstrap - [Repository](https://github.com/LcsToti/PratoDoDia) - [Site](https://opratododia-gab8b5gcccbpg3ga.canadacentral-01.azurewebsites.net/)
 - [ ] Habitum - React Native [W.I.P]
 
 # 📫 Contact
