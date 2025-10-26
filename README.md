@@ -3,7 +3,7 @@
 🧑‍💻 I'm **Lucas Toti** and it's a pleasure to see you here!  
 📖 I'm totally passionate about technology and always learning new things.
 
-Visit my [WebSite](https://lucas-toti.vercel.app/)
+Visit my [WebSite](https://lucas-toti.vercel.app/)!
 
 ## 🧰 Tech Stack
 
