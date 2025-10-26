@@ -2,7 +2,8 @@
 
 🧑‍💻 I'm **Lucas Toti** and it's a pleasure to see you here!  
 📖 I'm totally passionate about technology and always learning new things.
-[My WebSite](https://lucas-toti.vercel.app/)
+
+Visit my [WebSite](https://lucas-toti.vercel.app/)
 
 ## 🧰 Tech Stack
 
@@ -34,7 +35,7 @@
 
 - [x] **Habitum** - React Native, Expo, Tailwind, .NET, MySQL
   
-- [ ] **Comply** - c#, .NET, React, Tailwind, MongoDB [W.I.P]
+- [ ] **Comply** - C#, .NET, React, Tailwind, MongoDB [W.I.P]
 
 ---
 
