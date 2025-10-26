@@ -2,6 +2,7 @@
 
 🧑‍💻 I'm **Lucas Toti** and it's a pleasure to see you here!  
 📖 I'm totally passionate about technology and always learning new things.
+[My WebSite](https://lucas-toti.vercel.app/)
 
 ## 🧰 Tech Stack
 
@@ -31,9 +32,9 @@
 - [x] **MyPortfolio** - React, Vite, Tailwind CSS  
   🔗 [Site](https://lucas-toti.vercel.app/) • [Repository](https://github.com/LcsToti/MyPortfolio?tab=readme-ov-file#-meu-portf%C3%B3lio-pessoal)
 
-- [ ] **Habitum** - React Native, Expo, Tailwind, ASP.NET Core, MySQL [W.I.P]
-
-- [ ] **Rentify** - React, Tailwind, ASP.NET Core, MySQL [W.I.P]
+- [x] **Habitum** - React Native, Expo, Tailwind, .NET, MySQL
+  
+- [ ] **Comply** - c#, .NET, React, Tailwind, MongoDB [W.I.P]
 
 ---
 
