@@ -3,7 +3,7 @@
 🧑‍💻 I'm **Lucas Toti** and it's a pleasure to see you here!  
 📖 I'm totally passionate about technology and always learning new things.
 
-Visit my [WebSite](https://lucas-toti.vercel.app/)!
+Visit my [WebSite](https://lcstoti.dev/)!
 
 ## 🧰 Tech Stack
 
@@ -25,16 +25,17 @@ Visit my [WebSite](https://lucas-toti.vercel.app/)!
 ## 📁 Projects
 
 - [x] **PC Certo/Forum Page** - HTML, CSS and JavaScript  
-  🔗 [Site](https://lcstoti.github.io/PC-Certo/src/Paginainicial.html) • [Repository](https://github.com/LcsToti/PC-Certo)
+  🔗 [Site](https://pc-certo.lcstoti.dev) • [Repository](https://github.com/LcsToti/PC-Certo)
 
 - [x] **Prato do Dia** - ASP.NET Core, MySQL, HTML, CSS, JS, Bootstrap  
-  🔗 [Site](https://opratododia.azurewebsites.net/) • [Repository](https://github.com/LcsToti/PratoDoDia)
+  🔗 [Site](https://pratododia.lcstoti.dev/) • [Repository](https://github.com/LcsToti/PratoDoDia)
 
 - [x] **MyPortfolio** - React, Vite, Tailwind CSS  
-  🔗 [Site](https://lucas-toti.vercel.app/) • [Repository](https://github.com/LcsToti/MyPortfolio?tab=readme-ov-file#-meu-portf%C3%B3lio-pessoal)
+  🔗 [Site](https://lcstoti.dev/) • [Repository](https://github.com/LcsToti/MyPortfolio)
 
 - [x] **Habitum** - React Native, Expo, Tailwind, .NET, MySQL
-  
+  🔗 API -> [Site](https://habitumapi.lcstoti.dev/) • [Repository](https://github.com/LcsToti/HabitumAPI)
+
 - [ ] **Comply** - C#, .NET, React, Tailwind, MongoDB [W.I.P]
 
 ---
