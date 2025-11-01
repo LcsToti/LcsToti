@@ -33,7 +33,7 @@ Visit my [WebSite](https://lcstoti.dev/)!
 - [x] **MyPortfolio** - React, Vite, Tailwind CSS  
   🔗 [Site](https://lcstoti.dev/) • [Repository](https://github.com/LcsToti/MyPortfolio)
 
-- [x] **Habitum** - React Native, Expo, Tailwind, .NET, MySQL
+- [x] **Habitum** - React Native, Expo, Tailwind, .NET, MySQL  
   🔗 API -> [Site](https://habitumapi.lcstoti.dev/) • [Repository](https://github.com/LcsToti/HabitumAPI)
 
 - [ ] **Comply** - C#, .NET, React, Tailwind, MongoDB [W.I.P]
