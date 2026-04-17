@@ -1,9 +1,6 @@
-# Hi there! 👋
+# Olá! 👋
 
-🧑‍💻 I'm **Lucas Toti** and it's a pleasure to see you here!  
-📖 I'm totally passionate about technology and always learning new things.
-
-Visit my [WebSite](https://lcstoti.dev/)!
+🧑‍💻 Me chamo **Lucas Toti** e é um prazer te ver aqui!
 
 ## 🧰 Tech Stack
 
@@ -22,31 +19,31 @@ Visit my [WebSite](https://lcstoti.dev/)!
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 📁 Projects
+## 📁 Projetos
 
 - [x] **PC Certo/Forum Page** - HTML, CSS and JavaScript  
-  🔗 [Site](https://pc-certo.lcstoti.dev) • [Repository](https://github.com/LcsToti/PC-Certo)
+  🔗 [Repositório](https://github.com/LcsToti/PC-Certo)
 
 - [x] **Prato do Dia** - ASP.NET Core, MySQL, HTML, CSS, JS, Bootstrap  
-  🔗 [Site](https://pratododia.lcstoti.dev/) • [Repository](https://github.com/LcsToti/PratoDoDia)
+  🔗 [Repositório](https://github.com/LcsToti/PratoDoDia)
 
 - [x] **MyPortfolio** - React, Vite, Tailwind CSS  
-  🔗 [Site](https://lcstoti.dev/) • [Repository](https://github.com/LcsToti/MyPortfolio)
+  🔗 [Repositório](https://github.com/LcsToti/MyPortfolio)
 
-- [x] **Habitum** - React Native, Expo, Tailwind, .NET, MySQL  
-  🔗 API -> [Site](https://habitumapi.lcstoti.dev/) • [Repository](https://github.com/LcsToti/HabitumAPI)
+- [x] **Habitum** - React Native, Expo, Tailwind, .NET, MySQL
+  🔗 [Repositório](https://github.com/LcsToti/habitum)
 
-- [ ] **Comply** - C#, .NET, React, Tailwind, MongoDB [W.I.P]
-
+- [x] **Comply** - C#, .NET, React, Tailwind, MongoDB [W.I.P]
+  🔗 [Repositório](https://github.com/LcsToti/comply)
 ---
 
-## 📊 GitHub Stats
+## 📊 Status GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LcsToti&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Contact
+## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-toti-5114ab20a/)
 
