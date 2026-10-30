@@ -11,7 +11,7 @@ Sou **Lucas Toti**, desenvolvedor focado em **C# / .NET e aplicações fullstack
 
 ## Projetos
 
-### 🔹 Comply - https://comply.lcstoti.dev
+### 🔹 Comply - https://comply.lucastoti.com
 
 Repositório: https://github.com/LcsToti/comply
 
@@ -24,7 +24,7 @@ _**Stack:** .NET, React, MongoDB, RabbitMQ, Docker, Nginx_
 
 ---
 
-### 🔹 Habitum - https://habitum-api.lcstoti.dev
+### 🔹 Habitum - https://habitum-api.lucastoti.com
 
 Repositório: https://github.com/LcsToti/habitum (repositório da API)
 
@@ -37,7 +37,7 @@ _**Stack:** .NET, MySQL, Docker, Typescript, Expo_
 
 ---
 
-### 🔹 Prato do Dia - https://pratododia.lcstoti.dev
+### 🔹 Prato do Dia - https://pratododia.lucastoti.com
 
 Repositório: https://github.com/LcsToti/PratoDoDia
 
